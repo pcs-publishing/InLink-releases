@@ -1,7 +1,7 @@
 {
   "uxp": {
     "version": "0.0.1",
-    "downloadUrl": "https://github.com/your-org/inlink-releases/releases/download/uxp-0.3.1/inlink-uxp-plugin.ccx",
-    "sha256": "abc123..."
+    "downloadUrl": "https://github.com/pcs-publishing/InLink-releases/releases/download/0.0.1/com.navigaglobal.inlink-uxp_ID.ccx",
+    "sha256": "a25de5bbe0ec50403d554f4ace64ad2c95eeea74345140e9986b93d43a5a061d"
   }
 }
