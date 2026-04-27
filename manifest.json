@@ -1,0 +1,7 @@
+{
+  "uxp": {
+    "version": "0.0.1",
+    "downloadUrl": "https://github.com/your-org/inlink-releases/releases/download/uxp-0.3.1/inlink-uxp-plugin.ccx",
+    "sha256": "abc123..."
+  }
+}
